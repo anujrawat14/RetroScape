@@ -72,7 +72,7 @@ retroscape-frontend/
 Clone the repository:
 
 ```bash
-git clone https://github.com/someshrudola0000-dot/retroscape-frontend.git
+git clone https://github.com/anujrawat14/RetroScape 
 ```
 
 Open the project directory:
